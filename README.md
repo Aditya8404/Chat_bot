@@ -1,11 +1,14 @@
 # Chat_bot
 
-This is a chatbot project created my the team Minions. It created through supervised learning. It is trained on a set of data which is stored into a data pipeline and can channelise the differentiate the field of messages.
+The Chatbot is a ML powered chatbot designed to help user find the solution or review about a subject in a simple refined system.
 
 
-The is created with the help of python 
-1. PyTorch library for Neural Network. 
-2. NLKT ( Natural Language ToolKit ) for recognising the user message.
+# Key Features:
+
+• The Chatbot can provide with review based on a wide dataset trained, selecting the particular points for simpler understanding.
+• It can consult about a subject depending on the current condition.
+• Provide Further links for deeper research about the subject.
+• Recommendation of specific solution based on recorded user feedback.
 
 
 # Procedure to run the program
