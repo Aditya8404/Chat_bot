@@ -1,6 +1,7 @@
 # Chat_bot
 
 The Chatbot is a ML powered chatbot designed to help user find the solution or review about a subject in a simple refined system.
+It is created using supervised Learning.
 
 
 # Key Features:
@@ -9,6 +10,12 @@ The Chatbot is a ML powered chatbot designed to help user find the solution or r
 2. It can consult about a subject depending on the current condition.
 3. Provide Further links for deeper research about the subject.
 4. Recommendation of specific solution based on recorded user feedback.
+
+# Technology used :
+
+1. Neural Network using PyTorch
+2. NLTK ( Natural Language Toolkit )
+3. 
 
 
 # Procedure to run the program
