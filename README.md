@@ -8,7 +8,7 @@ The is created with the help of python
 2. NLKT ( Natural Language ToolKit ) for recognising the user message.
 
 
-#Procedure to run the program
+# Procedure to run the program
 
 1. run the [ train.py ] file
 2. Run the [ chat.py ] file
