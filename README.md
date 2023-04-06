@@ -5,10 +5,10 @@ The Chatbot is a ML powered chatbot designed to help user find the solution or r
 
 # Key Features:
 
-• The Chatbot can provide with review based on a wide dataset trained, selecting the particular points for simpler understanding.
-• It can consult about a subject depending on the current condition.
-• Provide Further links for deeper research about the subject.
-• Recommendation of specific solution based on recorded user feedback.
+1. The Chatbot can provide with review based on a wide dataset trained, selecting the particular points for simpler understanding.
+2. It can consult about a subject depending on the current condition.
+3. Provide Further links for deeper research about the subject.
+4. Recommendation of specific solution based on recorded user feedback.
 
 
 # Procedure to run the program
