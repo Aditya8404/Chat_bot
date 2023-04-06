@@ -47,8 +47,26 @@
         "review about apple products"
       ],
       "responses": [
-        "They are great products for daily usage with great battery life and performance",
-        "They are premium products but comes with great battery life and performance"
+        "They are great products for daily usage with great battery life and performance\n\nThe Current Models in sale are : \n\n   Iphone 14 pro max -> 139990/- \n   Iphone 14 pro -> 129990/- \n   Iphone 14 Max -> 89990/-\n   Iphone 14 -> 79990/- \n   Iphone 13 -> 64990/- \n   Iphone 12 -> 59990/- \n   Iphone SE -> 49990/- "
+      ]
+    },
+    {
+      "tag": "Banking",
+      "patterns": [
+        "loan interest rates"
+      ],
+      "responses": [
+        "The following data is the interest of banks in india : \n\nHDFC bank : \n   House loan -> 8.50% P.A \n   Car loan -> 8.75% P.A \n   Personal loan -> 10.75% P.A \n\n ICICI bank : \n   House loan -> 9.60% - 9.90% P.A \n   Car Loan -> 10.75% P.A \n Personal loan -> 10.5% P.A \n\n SBI Bank : \n   House loan ->8.95% P.A \n Car Loan -> 11.27%-14.75% P.A \n Personal loan ->11.00%14.00% P.A"
+      ]
+    },
+    {
+      "tag": "fibonnaci",
+      "patterns": [
+        "Write a code for fibonnaci series",
+        "programm fibonnaci series"
+      ],
+      "responses": [
+        "loopterms = int(input('Please enter the Loop Terms : '))\nnum1 = 0\nnum2 = 1\ntotal = 2\nif loopterms <= 0:\nprint('Plese enter a positive integer')\nelif loopterms == 1:\nprint('Fibonacci sequence:')\nprint(num1)\nelse:\nprint('Fibonacci sequence:')\nprint(num1,",",num2,end=', ')\nwhile total < loopterms:\nnth = num1 + num2\nprint(nth,end=' , ')\nnum1 = num2\nnum2 = nth\ntotal += 1"
       ]
     },
     {
