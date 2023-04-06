@@ -15,7 +15,6 @@ It is created using supervised Learning.
 
 1. Neural Network using PyTorch
 2. NLTK ( Natural Language Toolkit )
-3. 
 
 
 # Procedure to run the program
